@@ -1,1 +1,1 @@
-lockOwner = {"BabaRotaci"}
+lockOwner = {"BabaRotaci","KenjaTest"}
