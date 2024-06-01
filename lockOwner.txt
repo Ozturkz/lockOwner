@@ -1,1 +1,1 @@
-lockOwner = {"Laxoz", "Kenjai", "azkamissdia","clonwc", "Elquira","megawatiprime", "xZANNx","iiHate","azizwashighly","aksjakjss"}
+lockOwner = {"Laxoz", "Kenjai", "azkamissdia","clonwc", "Elquira","megawatiprime", "xZANNx","iiHate","azizwashighly","aksjakjss","test"}
